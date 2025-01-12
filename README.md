@@ -1,5 +1,5 @@
 # PracticaQ1_LMSGI
-en este documento se ha indicado la url del sitio web la cual se ha publicado a traves de la herramienta Pages de Github.
+En este documento se ha indicado la url del sitio web la cual se ha publicado a traves de la herramienta Pages de Github.
 https://desireesanas.github.io/Tarea-Lenguaje-Marcas/index.html
 E
 
