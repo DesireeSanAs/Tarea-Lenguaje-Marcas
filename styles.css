@@ -4,12 +4,6 @@ body {
     color: #fff;
   }
   
-  .bungee-inline {
-  font-family: 'Bungee Inline', serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
   .hero {
     height: 100vh;
     background: url('tu-imagen.jpg') no-repeat center center/cover;
@@ -42,9 +36,7 @@ body {
     font-weight: bold;
   }
 
-  .gallery img {
-    border-radius: 10px;
-  }
+
   .class-card {
     background-color: #333; /* Fondo gris oscuro */
     border: none;
@@ -73,8 +65,7 @@ body {
     text-align: center;
     color: #ddd; /* Texto gris claro */
   }
-
-
+ 
   /* Formulario */
 
 
